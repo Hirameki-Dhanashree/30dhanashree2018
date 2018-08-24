@@ -1,7 +1,7 @@
 import java.io.*;
 class Addition2{
 
-	int a,b,c;
+	int a,b,c,d;
   public static void main(String args[]){
 
 System.out.println("Enter the two value");
